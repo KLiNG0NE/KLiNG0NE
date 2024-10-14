@@ -1,13 +1,13 @@
 <div align="center">
-  <h3>Hello, I am <a href="https://github.com/KLiNG0NE/">KLING0NE</a>.</h3>
-  <sub>Deutsch&nbsp;| English</sub>
+  <h3>Hallo, ich bin der <a href="https://github.com/KLiNG0NE/">KLING0NE</a>.</h3>
+  <sub>Deutsch&nbsp;| <a href="https://github.com/KLiNG0NE/KLiNG0NE/README.md">English</a></sub>
 </div>
 
-- 👋 Hi, I’m @KLiNG0NE
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Arduino and ESP32
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Moin, ich bin der @KLiNG0NE
+- 👀 Ich interessiere mich für vieles
+- 🌱 Ich lerne gerade Arduino und ESP32
+- 💞️ Ich suche nach einer Zusammenarbeit im Bereich&nbsp;…
+- 📫 Wie man mich erreicht&nbsp;…
 
 
 
