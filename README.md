@@ -1,5 +1,6 @@
 <div align="center">
-  <h3>Hallo, ich bin der <a href="https://github.com/KLiNG0NE/">KLING0NE</a>.</h3>
+  <h3>Hello, I am <a href="https://github.com/KLiNG0NE/">KLING0NE</a>.</h3>
+  <sub>Deutsch&nbsp;| English</sub>
 </div>
 
 - 👋 Hi, I’m @KLiNG0NE
