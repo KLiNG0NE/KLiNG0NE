@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hallo, ich bin der <a href="https://github.com/KLiNG0NE/">KLING0NE</a>.</h3>
-  <sub>Deutsch&nbsp;| <a href="https://github.com/KLiNG0NE/KLiNG0NE/blob/main/README.md">English</a></sub>
+  <sub>🇩🇪&nbsp;Deutsch&nbsp;| 🇺🇸&nbsp;<a href="https://github.com/KLiNG0NE/KLiNG0NE/blob/main/README.md">English</a></sub>
 </div>
 
 - 👋 Moin, ich bin der @KLiNG0NE
