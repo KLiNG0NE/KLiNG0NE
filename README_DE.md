@@ -8,7 +8,7 @@
 
 - 👋 Moin, ich bin der @KLiNG0NE
 - 👀 Ich interessiere mich für vieles
-- 🌱 Ich lerne gerade Arduino und ESP32
+- 🌱 Ich lerne gerade Arduino, ESP32 und AI-Bildgenerierung
 - 💞️ Ich suche nach einer Zusammenarbeit im Bereich&nbsp;…
 - 📫 Wie man mich erreicht&nbsp;…
 
